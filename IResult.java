@@ -5,4 +5,5 @@ public interface IResult {
 	public void init();
 	public void add();
 	public void subtract();
+	public void multiply();
 }
