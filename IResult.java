@@ -8,5 +8,5 @@ public interface IResult {
 	public void subtract();
 	public void multiply();
 	public void devide();
-
+	public void display();
 }
