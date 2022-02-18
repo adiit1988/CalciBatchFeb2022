@@ -6,4 +6,6 @@ public interface IResult {
 	public void add();
 	public void subtract();
 	public void multiply();
+	public void devide();
+
 }
